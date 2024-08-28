@@ -15,7 +15,7 @@
 
 ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Django]([https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&labelColor=0D1117&textColor=0D1117](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green))&nbsp;
+![django]([https://img.shields.io/badge/-Django-0D1117?style=for-the-badge&logo=Django&labelColor=0D1117&textColor=0D1117](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green))&nbsp;
 ![FastAPI](https://img.shields.io/badge/-fastapi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-0D1117?style=for-the-badge&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
